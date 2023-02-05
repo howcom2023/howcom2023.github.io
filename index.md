@@ -16,12 +16,12 @@ order: 0
 
 ## What is HoWCoM?
 
-TODO
+<span style="color:red;">TODO</span>
 
 ## Why HoWCoM?
 
-TODO
+<span style="color:red;">TODO</span>
 
 ## Who is HoWCoM for?
 
-TODO
+<span style="color:red;">TODO</span>
