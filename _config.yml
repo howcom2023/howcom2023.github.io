@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HoWCoM 2021
+title: HoWCoM 2023
 #email: your-email@example.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
@@ -43,13 +43,9 @@ site-css:
 navigation:
 - title: Home
   url: /
-- title: Program
-  url: /program
-- title: Cases and install
-  url: /cases-and-installation
 - title: Call for Papers
   url: /cfp
+- title: Important dates
+  url: /dates
 - title: Organization
   url: /organization
-- title: Disclaimer
-  url: /disclaimer
