@@ -14,12 +14,9 @@ order: 0
   <br/>
 </div>
 
-<div align="center" style="font-weight: 600">
-  Welcome to the 2nd International Hands-on Workshop on Collaborative Modeling 2023 (HoWCoM).<br>
-  Co-located with the <a href="http://www.modelsconference.org">MODELS 2023</a> conference.
-  <br/>
-  <br/>
-</div>
+## What is HoWCoM?
+
+TODO
 
 ## Why HoWCoM?
 
