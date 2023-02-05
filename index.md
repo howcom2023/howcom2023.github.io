@@ -16,7 +16,7 @@ order: 0
 
 <div align="center" style="font-weight: 600">
   Welcome to the 2nd International Hands-on Workshop on Collaborative Modeling 2023 (HoWCoM).<br>
-  HoWCoM is a completely online event co-located with the <a href="http://www.modelsconference.org">MODELS 2023</a> conference.
+  Co-located with the <a href="http://www.modelsconference.org">MODELS 2023</a> conference.
   <br/>
   <br/>
 </div>
