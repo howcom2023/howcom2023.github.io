@@ -27,13 +27,14 @@ The topics of interest include, but are not limited to:
 
 We invite the following three types of submissions.
 
-<span style="color:red;">TBD</span>
+**Regular workshop papers** (up to 10 pages) reporting on fundational results in collaborative model-driven software engineering.
 
 **Case papers** (up to 10 pages) elaborating on a collaborative case, and demonstrating its solution via a tool of choice. The description of the case should include a general challenge, and an example scenario of that challenge. Authors of the accepted papers will be invited to give a talk during the morning session, and their tools will be used during the afternoon session. The submitted cases will be used by the organizers to construct the modeling tasks of the afternoon session. Please refer to the specific instructions for case papers below.
 
+**Protocols** (up to 10 pages) <span style="color:red;">TODO</span>
+
 **Vision papers** (5 pages) presenting innovative ideas. Authors of the accepted vision papers will be invited to give a regular talk.
 
-**Extended abstracts** (1 page) presenting innovative ideas or position statements. Authors of the accepted extended abstracts will be invited for a lightning talk.
 
 All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format, and submitted electronically through the [HoWCoM EasyChair](https://easychair.org/my/conference?conf=howcom2023) web page.
 An [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) is also available.
@@ -43,3 +44,5 @@ Extended abstracts will not be published.
 All accepted papers will be available on the workshop website prior to the start of the workshop.
 
 To be published in the proceedings, at least one author of an accepted paper must present their work at the workshop. Additionally, authors of accepted case papers commit to conduct a hands-on session for their tool during the afternoon session.
+
+<span style="color:red;">TODO: case paper / registered report format</span>
