@@ -44,7 +44,7 @@ Should include a general challenge, and an example scenario of that challenge. A
 <span style="color:red;">TODO: more details</span>
 
 
-### **Submission and publication**
+### **Publication**
 
 All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format, and submitted electronically through the [HoWCoM EasyChair](https://easychair.org/my/conference?conf=howcom2023) web page.
 An [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) is also available.
