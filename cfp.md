@@ -27,22 +27,28 @@ The topics of interest include, but are not limited to:
 
 We invite the following three types of submissions.
 
-**Regular workshop papers** (up to 10 pages) reporting on fundational results in collaborative model-driven software engineering.
+**Regular workshop papers** (up to 10 pages) reporting on fundational results in collaborative model-driven software engineering. Authors of accepted regular papers will be invited to give a regular talk.
 
-**Case papers** (up to 10 pages) elaborating on a collaborative case, and demonstrating its solution via a tool of choice. The description of the case should include a general challenge, and an example scenario of that challenge. Authors of the accepted papers will be invited to give a talk during the morning session, and their tools will be used during the afternoon session. The submitted cases will be used by the organizers to construct the modeling tasks of the afternoon session. Please refer to the specific instructions for case papers below.
+**Vision papers** (5 pages) presenting innovative ideas. Authors of accepted vision papers will be invited to give a regular talk.
 
-**Protocols** (up to 10 pages) <span style="color:red;">TODO</span>
+**Case papers** (up to 10 pages) elaborating on a collaborative case, and demonstrating its solution via a tool of choice with the intent to conduct a hands-on session and report the results. The case paper will be reviewed and published as the RR1 part of a [registered report](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/RegisteredReports.md); the report of results will be published as the RR2 part. The description of the case should follow the instructions below. The RR2 part has to be submitted three weeks after the workshop. 
 
-**Vision papers** (5 pages) presenting innovative ideas. Authors of the accepted vision papers will be invited to give a regular talk.
+**Protocols** (up to 10 pages) defining protocols for empirical evaluation of a tool with no intent to conduct a hands-on session. The protocol will be reviewed and published as the RR1 part of a [registered report](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/RegisteredReports.md). There will be no talk expected from protocol submissions.
 
+
+
+### Case paper -- Detailed instructions
+
+Should include a general challenge, and an example scenario of that challenge. Authors of the accepted papers will be invited to give a talk during the morning session, and their tools will be used during the afternoon session. The submitted cases will be used by the organizers to construct the modeling tasks of the afternoon session. Please refer to the specific instructions for case papers below.
+
+<span style="color:red;">TODO: more details</span>
+
+
+### Submission and publication
 
 All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format, and submitted electronically through the [HoWCoM EasyChair](https://easychair.org/my/conference?conf=howcom2023) web page.
 An [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) is also available.
 All submissions will be reviewed by at least 3 members of the program committee. Authors of case papers should expect a particularly detailed feedback to allow them to leverage the opportunity the workshop provides to the fullest extent.
-Case papers and vision papers will be published in the MODELS Companion proceedings.
-Extended abstracts will not be published.
-All accepted papers will be available on the workshop website prior to the start of the workshop.
+All accepted papers will be published in the MODELS Companion proceedings and the workshop website.
 
-To be published in the proceedings, at least one author of an accepted paper must present their work at the workshop. Additionally, authors of accepted case papers commit to conduct a hands-on session for their tool during the afternoon session.
-
-<span style="color:red;">TODO: case paper / registered report format</span>
+To be published in the proceedings, at least one author of accepted regular, vision, and case papers must present their work at the workshop. Authors of accepted case papers commit to conduct a hands-on session for their tool during the afternoon session. Authors of protocols are not expected to present their work at the workshop.
