@@ -37,14 +37,14 @@ We invite the following three types of submissions.
 
 
 
-### Case paper -- Detailed instructions
+### **Case paper -- Detailed instructions**
 
 Should include a general challenge, and an example scenario of that challenge. Authors of the accepted papers will be invited to give a talk during the morning session, and their tools will be used during the afternoon session. The submitted cases will be used by the organizers to construct the modeling tasks of the afternoon session. Please refer to the specific instructions for case papers below.
 
 <span style="color:red;">TODO: more details</span>
 
 
-### Submission and publication
+### **Submission and publication**
 
 All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format, and submitted electronically through the [HoWCoM EasyChair](https://easychair.org/my/conference?conf=howcom2023) web page.
 An [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) is also available.
