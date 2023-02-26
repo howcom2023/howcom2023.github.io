@@ -31,7 +31,7 @@ We invite the following three types of submissions.
 
 **Vision papers** (5 pages) presenting innovative ideas. Authors of accepted vision papers will be invited to give a regular talk.
 
-**Case papers** (up to 10 pages) elaborating on a collaborative case, and demonstrating its solution via a tool of choice with the intent to conduct a hands-on session and report the results. The case paper will be reviewed and published as the RR1 part of a [registered report](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/RegisteredReports.md); the report of results will be published as the RR2 part. The description of the case should follow the instructions below. The RR2 part has to be submitted three weeks after the workshop. 
+**Case papers** (up to 10 pages) elaborating on a collaborative case, and demonstrating its solution via a tool of choice with the intent to conduct a hands-on session and report the results. The case paper will be reviewed and published as the RR1 part of a [registered report](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/RegisteredReports.md); the report of results will be published as the RR2 part. The description of the case should follow the instructions [below](https://github.com/howcom2023/howcom2023.github.io/blob/main/cfp.md#case-paper--detailed-instructions). The RR2 part has to be submitted three weeks after the workshop. 
 
 **Protocols** (up to 10 pages) defining protocols for empirical evaluation of a tool with no intent to conduct a hands-on session. The protocol will be reviewed and published as the RR1 part of a [registered report](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/RegisteredReports.md). There will be no talk expected from protocol submissions.
 
@@ -39,7 +39,7 @@ We invite the following three types of submissions.
 
 ### **Case paper &ndash; Detailed instructions**
 
-Should include a general challenge, and an example scenario of that challenge. Authors of the accepted papers will be invited to give a talk during the morning session, and their tools will be used during the afternoon session. The submitted cases will be used by the organizers to construct the modeling tasks of the afternoon session. Please refer to the specific instructions for case papers below.
+Should include a general challenge, and an example scenario of that challenge. Authors of the accepted papers will be invited to give a talk during the morning session, and their tools will be used during the afternoon session. The submitted cases will be used by the organizers to construct the modeling tasks of the afternoon session.
 
 <span style="color:red;">TODO: more details</span>
 
