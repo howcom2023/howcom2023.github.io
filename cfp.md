@@ -89,7 +89,7 @@ Reasonable deviations from the format are accepted. Please contact the [Organize
 
 -----
 
-### **Proceedings**
+## **Proceedings**
 
 All submitted papers must adhere to the [IEEE Conference](https://www.ieee.org/conferences/publishing/templates.html) format, and submitted electronically through the [HoWCoM EasyChair](https://easychair.org/my/conference?conf=howcom2023) web page.
 An [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) is also available.
@@ -99,6 +99,12 @@ All accepted papers will be published in the MODELS Companion proceedings and th
 To be published in the proceedings, at least one author of accepted papers must present their work at the workshop. Authors of accepted case papers commit to conduct a hands-on session for their tool during the afternoon session.
 
 
-### **Joint publication**
+## **Joint publication**
 
 To report the results of the workshop in a coherent way, the [Organizers](/organization) will facilitate the synthesis of a joint publication. Experimenting teams are encouraged to report their results in a format to be agreed during the workshop, and will be invited to contribute to shaping the publication if they wish.
+
+-----
+
+## **Legal disclaimer**
+
+If applicable, authors of case papers must ensure they meet the rules of their local ethics committee and they mus share a consent form with the Organizing Committe. The Organizing Committee will take care of distributing the consent forms to participants during the event.
