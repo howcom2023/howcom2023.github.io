@@ -49,3 +49,7 @@ navigation:
   url: /dates
 - title: Organization
   url: /organization
+- title: Previous editions
+  subpages:
+    - title: 2021
+      url: https://howcom2021.github.io

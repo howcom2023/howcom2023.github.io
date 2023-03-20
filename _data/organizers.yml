@@ -2,11 +2,14 @@
   image: istvan.png
   affiliation: University of Montreal, Canada
   website: http://istvandavid.com/
+  order: 1
 - name: Syriani, Eugene
   image: eugene.jpg
   affiliation: University of Montreal, Canada
   website: http://www-ens.iro.umontreal.ca/~syriani/
+  order: 3
 - name: Garcia-Dominguez, Antonio
   image: antonio.jpg
   affiliation: University of York, UK
   website: https://www-users.york.ac.uk/~agd516/
+  order: 2

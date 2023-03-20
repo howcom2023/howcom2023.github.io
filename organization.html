@@ -5,7 +5,7 @@ permalink: /organization
 order: 10
 ---
 
-{% assign organizers = site.data.organizers%}
+{% assign organizers = site.data.organizers | sort:"order" %}
 {% assign pc = site.data.pc | sort:"name" %}
 {% assign sv = site.data.sv | sort:"name" %}
 
@@ -34,5 +34,7 @@ order: 10
 {% endfor %}
 </ul>-->
 
+<!--
 <h1>Student volunteers</h1>
 <span style="color:red;">TBA</span>
+-->
