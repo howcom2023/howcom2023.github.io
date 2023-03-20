@@ -96,7 +96,7 @@ An [Overleaf template](https://www.overleaf.com/latex/templates/ieee-conference-
 All submissions will be reviewed by at least 3 members of the program committee. Authors of case papers should expect a particularly detailed feedback to allow them to leverage the opportunity the workshop provides to the fullest extent.
 All accepted papers will be published in the MODELS Companion proceedings and the workshop website.
 
-To be published in the proceedings, at least one author of accepted regular, vision, and case papers must present their work at the workshop. Authors of accepted case papers commit to conduct a hands-on session for their tool during the afternoon session. Authors of protocols are not expected to present their work at the workshop.
+To be published in the proceedings, at least one author of accepted papers must present their work at the workshop. Authors of accepted case papers commit to conduct a hands-on session for their tool during the afternoon session.
 
 
 ### **Joint publication**
