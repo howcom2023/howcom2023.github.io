@@ -244,7 +244,6 @@ table tr:nth-child(odd) {
         font-family:"fontello";
         font-style: normal;
         font-weight: normal;
-        content:'\e9c8';
         speak: none;
         display: inline-block;
         text-decoration: inherit;
