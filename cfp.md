@@ -16,6 +16,7 @@ The topics of interest include, but are not limited to:
 - Asynchronous means of collaboration
 - (In)consistency management
 - Advanced conflict visualization and resolution techniques
+- Architectures for collaborative modeling, including cloud, desktop, and mixed models
 - Data-level collaborative techniques
 - Domain-specific collaborative solutions
 - Informal means of collaboration
